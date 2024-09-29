@@ -1,0 +1,9 @@
+wandb
+sklearn
+seaborn
+matplotlib
+pandas
+ipykernel
+emoji
+plotly
+nbformat>=4.2.0
